@@ -10,7 +10,7 @@ All exercises are written for Oracle FreeSQL, a browser-based Oracle IDE. The SC
 
 
 
-## Learning Path
+#### Learning Path
 
 | #  | Level            | Topic                        | Key Concepts                                   | Status |
 | -- | ---------------- | ---------------------------- | ---------------------------------------------- | ------ |

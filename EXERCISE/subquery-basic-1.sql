@@ -1,4 +1,5 @@
 
+-- tables are in the SCOTT SCHEMA on FREE SQL ORACLE
 
 
 -- display second highest salary 

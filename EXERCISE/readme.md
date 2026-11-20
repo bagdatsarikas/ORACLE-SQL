@@ -2,11 +2,9 @@
 
 ### Oracle SQL Practice
 
-Hands-on SQL exercises, from basic to advanced, built on the classic SCOTT schema.
+Hands-on SQL exercises, from basic to advanced, built on the classic schemas on ORACLE FREE Environment. 
 
-Environment
-
-All exercises are written for Oracle FreeSQL, a browser-based Oracle IDE. The SCOTT schema and its data are already loaded, so there is nothing to install or set up.
+All exercises are written for Oracle FreeSQL, a browser-based Oracle IDE. The  schemas and its data are already loaded, so there is nothing to install or set up.
 
 
 
